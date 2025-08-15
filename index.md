@@ -32,14 +32,14 @@ Hi! My name is Dhruv Agrawal.
     KASM
 </a>
 <a href="https://vscode.dev/" class="button small" style="background-color: #d38a4bff">
-    <span style="color: #FFFFFF">VSCODE</span>
+    <span style="color: #89dd0bff">VSCODE</span>
 </a>
 
 <br>
 
 ### Class Progress
 
-<a href="{{site.baseurl}}/snake" class="button small" style="background-color: #6b4bd3ff">
+<a href="{{site.baseurl}}/snake" class="button small" style="background-color: #1ab417ff">
     Snake Game
 </a>
 <a href="{{site.baseurl}}/turtle" class="button small" style="background-color: #2A7DB1">
