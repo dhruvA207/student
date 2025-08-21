@@ -121,5 +121,6 @@ Pictures!
 <div class="image-gallery">
   <img src="{{site.baseurl}}/images/about/India_flag.png" alt="Image 1">
   <img src="{{site.baseurl}}/images/about/Pacific_swim.png" alt="Image 2">
- 
+  <img src="{{site.baseurl}}/images/about/Mihir.jpeg" alt="Image 3">
+  <img src="{{site.baseurl}}/images/about/Parents.png" alt="Image 4">
 </div>
