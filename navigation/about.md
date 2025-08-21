@@ -103,7 +103,6 @@ My ongoing journey on this planet:
 
 - ☀️ Born and raised mostly in San Diego, California
 - 🏫 Elementary and Middle School in Design 39 Campus
-- 🧑‍🧑‍🧒 Parents both born and raised in India - Both are software engineers
 - 🏊🏽‍♂️ I had an early interest in swimmming and am now a competitive swimmer in the club Pacific Swim
 - 🏊🏽‍♂️ I am currently a sprint butterfly swimmer and was top 20 in the nation last year in the 50m fly
 - 💻 I did CyberAegis (cybersecurity) for a short time in 7th grade, but couldn't continue because of my swimming commitment
@@ -112,14 +111,12 @@ My ongoing journey on this planet:
 
 ### Culture, Family, and Fun
 
-Everything for me, as for many others, revolves around family and faith.
-
-- My mother told me that I was Danish, English. and Irish, here is my researched [family tree]({{site.baseurl}}/images/about/familytree.png)
-- My family is pretty big as I have been married twice, my 1st wife passed away.  We have had 5 kids, 4 adopted by me, 1 biological.  Plus, there are three grandkids.  My name to my grandkids is Abuilito.
-- The gallery of pics has some of my family, fun, culture and faith memories.
+- 🧑‍🧑‍🧒 Parents both born and raised in India - Both are software engineers
+- I have one brother who is 9 years younger than me
+- Me and my family are Hindus, a religion that is very common in India
 
 <comment>
-Gallery of Pics, scroll to the right for more ...
+Pictures!
 </comment>
 <div class="image-gallery">
   <img src="{{site.baseurl}}/images/about/missionary.jpg" alt="Image 1">
