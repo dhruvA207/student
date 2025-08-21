@@ -105,6 +105,7 @@ My ongoing journey on this planet:
 - 🏫 Elementary and Middle School in Design 39 Campus
 - 🏊🏽‍♂️ I had an early interest in swimmming and am now a competitive swimmer in the club Pacific Swim
 - 🏊🏽‍♂️ I am currently a sprint butterfly swimmer and was top 20 in the nation last year in the 50m fly
+- 🎹 I have been doing piano for 7 years and am doing a certifcation called Certifcate of Merit
 - 💻 I did CyberAegis (cybersecurity) for a short time in 7th grade, but couldn't continue because of my swimming commitment
 - 🏫 I am now doing CSSE in Del Norte Highschool as a freshman!
 
