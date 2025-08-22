@@ -99,7 +99,7 @@ Flags are made using Wikipedia images
 
 ### Journey through Life
 
-My ongoing journey on this planet:
+
 
 - ☀️ Born and raised mostly in San Diego, California
 - 🏫 Elementary and Middle School in Design 39 Campus
