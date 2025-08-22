@@ -110,11 +110,12 @@ My ongoing journey on this planet:
 - 🏫 I am now doing CSSE in Del Norte Highschool as a freshman!
 
 
-### Culture, Family, and Fun
+### Culture, Family, and Friends
 
 - 🧑‍🧑‍🧒 Parents both born and raised in India - Both are software engineers
 - I have one brother who is 9 years younger than me
-- Me and my family are Hindus, a religion that is very common in India
+- My family and I are Hindus, a common religion from the areas my parents come from
+- I love spending time with my friends, from just sitting with them to doing flips into the pool with them!
 
 <comment>
 Pictures!
