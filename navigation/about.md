@@ -113,7 +113,7 @@ My ongoing journey on this planet:
 ### Culture, Family, and Friends
 
 - 🧑‍🧑‍🧒 Parents both born and raised in India - Both are software engineers
-- I have one brother who is 9 years younger than me
+- I have a brother who is 9 years younger than me
 - My family and I are Hindus, a common religion from the areas my parents come from
 - I love spending time with my friends, from just sitting with them to doing flips into the pool with them!
 
