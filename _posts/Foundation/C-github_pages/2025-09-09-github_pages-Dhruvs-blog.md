@@ -4,7 +4,7 @@ layout: post
 title: Dhruv's 1st Blog
 description: Welcome to my first blog! Here you will learn the main topics of the first CSSE Sprint.
 menu: nav/github_pages.html
-permalink: /github/pages/dhruvs-blog
+permalink: /dhruvs-blog
 ---
 
 # 1. **Installing VS Code and Dependencies on Mac**
