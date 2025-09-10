@@ -10,21 +10,21 @@ permalink: /background
 <canvas id="world"></canvas>
 
 <script>
-  const canvas = document.getElementById("world");
+  const canvas = document.getElementById("world"); 
   const ctx = canvas.getContext('2d');
   const backgroundImg = new Image();
   const spriteImg = new Image();
-  backgroundImg.src = '{{page.background}}';
-  spriteImg.src = '{{page.sprite}}';
+  backgroundImg.src = '{{page.background}}'; // Image 
+  spriteImg.src = '{{page.sprite}}'; // sprite
 
   let imagesLoaded = 0;
   backgroundImg.onload = function() {
-    imagesLoaded++;
-    startGameWorld();
+    imagesLoaded++; // loading image
+    startGameWorld(); // starting
   };
   spriteImg.onload = function() {
-    imagesLoaded++;
-    startGameWorld();
+    imagesLoaded++; // done loading image
+    startGameWorld(); // starting..
   };
 
   function startGameWorld() {
@@ -32,9 +32,9 @@ permalink: /background
 
     class GameObject {
       constructor(image, width, height, x = 0, y = 0, speedRatio = 0) {
-        this.image = image;
-        this.width = width;
-        this.height = height;
+        this.image = image; //dimensions
+        this.width = width; //dimensions
+        this.height = height; //dimensions
         this.x = x;
         this.y = y;
         this.speedRatio = speedRatio;
@@ -49,7 +49,7 @@ permalink: /background
     class Background extends GameObject {
       constructor(image, gameWorld) {
         // Fill entire canvas
-        super(image, gameWorld.width, gameWorld.height, 0, 0, 0.1);
+        super(image, gameWorld.width, gameWorld.height, 0, 0, 0.1); // running dimensions on background
       }
       update() {
         this.x = (this.x - this.speed) % this.width;
@@ -62,7 +62,7 @@ permalink: /background
 
     class Player extends GameObject {
       constructor(image, gameWorld) {
-        const width = image.naturalWidth / 2;
+        const width = image.naturalWidth / 2; 
         const height = image.naturalHeight / 2;
         const x = (gameWorld.width - width) / 2;
         const y = (gameWorld.height - height) / 2;
@@ -80,7 +80,7 @@ permalink: /background
       static gameSpeed = 5;
       constructor(backgroundImg, spriteImg) {
         this.canvas = document.getElementById("world");
-        this.ctx = this.canvas.getContext('2d');
+        this.ctx = this.canvas.getContext('2d'); // canvas height
         this.width = window.innerWidth;
         this.height = window.innerHeight;
         this.canvas.width = this.width;
@@ -105,7 +105,7 @@ permalink: /background
         requestAnimationFrame(this.gameLoop.bind(this));
       }
       start() {
-        this.gameLoop();
+        this.gameLoop(); // looping game
       }
     }
 
