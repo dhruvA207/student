@@ -37,7 +37,7 @@ permalink: /background
         this.height = height; //dimensions
         this.x = x;
         this.y = y;
-        this.speedRatio = speedRatio;
+        this.speedRatio = speedRatio; // dimesniosns:speed ratio
         this.speed = GameWorld.gameSpeed * this.speedRatio;
       }
       update() {}
@@ -77,7 +77,7 @@ permalink: /background
     }
 
     class GameWorld {
-      static gameSpeed = 5;
+      static gameSpeed = 5; // speeddd
       constructor(backgroundImg, spriteImg) {
         this.canvas = document.getElementById("world");
         this.ctx = this.canvas.getContext('2d'); // canvas height
